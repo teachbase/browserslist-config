@@ -1,0 +1,10 @@
+{
+  "name": "@teachbase/browserslist-config",
+  "version": "1.0.0",
+  "description": "Custom browserslist config",
+  "main": "index.js",
+  "repository": "https://github.com/teachbase/browserslist-config.git",
+  "author": "Alexander Telyatnikov <labriko@yandex.ru>",
+  "license": "MIT",
+  "private": false
+}
